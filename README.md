@@ -5,8 +5,8 @@
 </p>
 
 Loging form with working button links to 
-<br>__Sign up &129094 Login 129094 Forgot__ Password pages
-<br>was created to learn basic form creation
+<br>__Sign up ⮞ Login ⮞ Forgot__ Password.
+<br>Website was created to learn basic form creation.
 
 Design: https://bit.ly/34jO6w4
 
@@ -20,5 +20,3 @@ Created by Mantas Petrauskas
 ![screenshot1](./img/web-screenshot2.jpg)
 
 ![screenshot1](./img/web-screenshot3.jpg)
-
-
